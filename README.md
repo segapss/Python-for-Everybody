@@ -1,6 +1,6 @@
 # Python_lecture
-Discarded: Jump to Python(https://wikidocs.net/book/1)
-Adapted: Python for Everybody(https://www.coursera.org/specializations/python)
+Discarded: Jump to Python(https://wikidocs.net/book/1)\
+Adapted: Python for Everybody(https://www.coursera.org/specializations/python)\
 Sub-categories as follows;
 1. Programming for Everybody (Getting Started with Python)
 2. Python Data Structures
