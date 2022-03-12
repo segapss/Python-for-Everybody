@@ -1,4 +1,4 @@
-# Python_lecture
+# Python_for_Everybody
 Discarded: Jump to Python(https://wikidocs.net/book/1)  
 Adapted: Python for Everybody(https://www.coursera.org/specializations/python)  
 Sub-categories as follows;
